@@ -30,7 +30,7 @@ const Contact: React.FC = () => {
                     <a href="https://phuchaodo.coregenaihub.com/" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-white transition-colors">
                         Personal Website
                     </a>
-                    <a href="https://github.com/ailabteam" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-white transition-colors">
+                    <a href="https://github.com/QASCOM-Lab" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-white transition-colors">
                         GitHub Repositories
                     </a>
                 </div>

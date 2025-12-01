@@ -97,7 +97,7 @@ const Layout: React.FC<{ children: React.ReactNode }> = ({ children }) => {
         <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
           <div className="md:flex md:items-center md:justify-between">
             <div className="flex justify-center md:justify-start space-x-6 md:order-2">
-                <a href="https://github.com/ailabteam" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-white">
+                <a href="https://github.com/QASCOM-Lab" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-white">
                   <span className="sr-only">GitHub</span>
                   <ExternalLink className="h-6 w-6" />
                 </a>

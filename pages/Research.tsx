@@ -61,7 +61,7 @@ const Research: React.FC = () => {
             We actively share our experimental environments and simulation code via our repositories to promote reproducible research.
           </p>
           <a 
-            href="https://github.com/ailabteam" 
+            href="https://github.com/QASCOM-Lab" 
             target="_blank" 
             rel="noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-lg bg-white text-space-950 font-bold hover:bg-slate-200 transition-colors"

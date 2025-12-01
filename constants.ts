@@ -53,7 +53,7 @@ export const TEAM_MEMBERS: Member[] = [
     bio: 'Ph.D. Candidate specializing in Quantum Computing, Distributed AI, and Space Communications. Leading QASCOM towards the future of 6G infrastructure.',
     imageUrl: 'https://ui-avatars.com/api/?name=Phuc+Hao+Do&background=0ea5e9&color=fff&size=256',
     links: {
-      github: 'https://github.com/ailabteam',
+      github: 'https://github.com/QASCOM-Lab',
       website: 'https://phuchaodo.coregenaihub.com/'
     }
   },
